@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\bin\Debug\hesap makinası.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\bin\Debug\hesap makinası.exe
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\bin\Debug\hesap makinası.pdb
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\obj\Debug\hesap makinası.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\obj\Debug\hesap_makinası.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\obj\Debug\hesap_makinası.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\obj\Debug\hesap makinası.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\obj\Debug\hesap makinası.exe
+c:\users\hp\documents\visual studio 2015\Projects\hesap makinası\hesap makinası\obj\Debug\hesap makinası.pdb
